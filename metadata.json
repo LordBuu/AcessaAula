@@ -1,0 +1,8 @@
+{
+  "name": "AcessaAula",
+  "description": "Protótipo de apoio pedagógico para professores adaptarem atividades escolares com foco em acessibilidade e inclusão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
